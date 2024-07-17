@@ -1,0 +1,10 @@
+11:00:01.959 [main] INFO  com.testcases.TC_001_Registration - *******Application Opened*********
+11:00:02.170 [main] INFO  com.testcases.TC_001_Registration - *******Application Maximized*********
+11:00:02.189 [main] INFO  com.testcases.TC_001_Registration - *******Apllying implicit wait*********
+11:00:05.064 [main] INFO  com.testcases.TC_001_Registration - **clicked on create account**
+11:00:05.285 [main] INFO  com.testcases.TC_001_Registration - ####Entered firstname####
+11:00:05.462 [main] INFO  com.testcases.TC_001_Registration - ######entered lastname###
+11:00:05.572 [main] INFO  com.testcases.TC_001_Registration - ***entered email****
+11:00:05.807 [main] INFO  com.testcases.TC_001_Registration - ***entered password***
+11:00:06.008 [main] INFO  com.testcases.TC_001_Registration - *******entered cnfpassword*********
+11:00:06.170 [main] INFO  com.testcases.TC_001_Registration - *******clicked on register*********
